@@ -35,7 +35,7 @@ The objective is to demonstrate the use of data analysis and SQL querying to sup
 
 ## Key Insights
 - **United Kingdom** generated the highest total sales (46,7 Millions).
-- **November 2019** was peak sales months (6,7 Millions).
+- **November 2019** was peak sales month (6,7 Millions).
 - **Paper craft little birdie** had high sales volume and profitability.
 - **Total Revenue** = 56,7 millions .
 - **Transaction count** = 17,799 .
